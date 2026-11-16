@@ -1,0 +1,6 @@
+csi
+build/
+*.dSYM/
+*.csi
+*.locate
+*.zip

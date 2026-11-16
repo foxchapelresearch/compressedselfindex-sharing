@@ -1,0 +1,6 @@
+[submodule "fsst"]
+	path = fsst
+	url = https://github.com/cwida/fsst
+[submodule "roaring"]
+	path = roaring
+	url = https://github.com/RoaringBitmap/CRoaring
